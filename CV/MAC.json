@@ -40,7 +40,12 @@
     "jobs": [
       {
         "organization": {
-          "name": "Pablo Nuñez Fernández"
+          "name": "Pablo Nuñez Fernández",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/17/5d28ff4e-bb1e-4a33-935a-06a393ce68da_unknown.jpeg",
+            "alt": "Unknown.jpeg"
+          },
+          "URL": "https://www.pablonunez.dev"
         },
         "roles": [
           {
@@ -48,7 +53,13 @@
             "startDate": "2023-06-01",
             "challenges": [
               {
-                "description": "Skills: JSON"
+                "description": "Desarrollo de aplicaciones web responsivas\nutilizando Angular y JavaScript, siguiendo las\nmejores prácticas modernas de desarrollo.\n• Uso de HTML, CSS y Git para garantizar la\neficiencia del código y la colaboración en los\nprocesos de desarrollo.\n• Contribución a la finalización exitosa de\nproyectos a través de la resolución\nindependiente de problemas y el trabajo en\nequipo, mejorando la comunicación entre los equipos"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
               }
             ]
           }
