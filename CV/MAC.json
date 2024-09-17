@@ -77,7 +77,12 @@
           {
             "name": "Advance technician",
             "startDate": "2022-06-01",
-            "finishDate": "2023-03-31"
+            "finishDate": "2023-03-31",
+            "challenges": [
+              {
+                "description": "Diagnóstico y reparación de problemas\ntécnicos complejos de manera eficiente,\ncumpliendo con plazos ajustados.\n• Mantenimiento y calibración de sistemas\nelectrónicos de alta tecnología.\n• Colaboración estrecha con equipos de\ningeniería para optimizar el rendimiento del\nsistema.\n• Lideré sesiones de capacitación para técnicos\njunior, mejorando su comprensión de\ntécnicas avanzadas de resolución de\nproblemas y tecnologías."
+              }
+            ]
           }
         ]
       },
