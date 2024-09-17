@@ -143,7 +143,12 @@
           {
             "name": "Senior IT Technician",
             "startDate": "2017-06-01",
-            "finishDate": "2023-06-30"
+            "finishDate": "2023-06-30",
+            "challenges": [
+              {
+                "description": "• Inspección, diagnóstico y reparación de\ndispositivos Apple (MacBooks, iPhones, iPads)\npara contratistas y clientes.\n• Aseguramiento de una alta satisfacción del\ncliente mediante la entrega de reparaciones y\nsoporte técnico en tiempo y forma para\nvarios productos de Apple.\n• Proporcioné orientación y soporte técnico al\npersonal junior, mejorando la eficiencia\ngeneral del servicio."
+              }
+            ]
           }
         ]
       },
