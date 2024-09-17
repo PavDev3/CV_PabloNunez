@@ -161,12 +161,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Android",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Angular2+",
           "type": "technology"
         }
@@ -203,12 +197,6 @@
       },
       {
         "skill": {
-          "name": "Java",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
@@ -221,12 +209,6 @@
       },
       {
         "skill": {
-          "name": "Microsoft Office 365",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "NodeJS",
           "type": "technology"
         }
@@ -234,12 +216,6 @@
       {
         "skill": {
           "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React Native",
           "type": "technology"
         }
       },
@@ -306,7 +282,23 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "React",
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
         "type": "technology"
       }
     ],
