@@ -294,16 +294,6 @@
         {
           "name": "Angular2+",
           "type": "technology"
-        },
-        {
-          "name": "Kotlin",
-          "type": "technology"
-        }
-      ],
-      "discardedCompetences": [
-        {
-          "name": "C++",
-          "type": "technology"
         }
       ],
       "preferredRoles": [
