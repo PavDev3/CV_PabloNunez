@@ -215,12 +215,6 @@
       },
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "SQL",
           "type": "technology"
         }
